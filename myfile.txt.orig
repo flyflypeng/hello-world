@@ -1,5 +1,8 @@
 连猴子都懂的Git命令
 add 把变更录入到索引中
 commit 记录索引状态
+<<<<<<< HEAD
 pull取得远端数据库的数据
+=======
 # just add some text into issue2 feature
+>>>>>>> issue2
