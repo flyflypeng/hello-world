@@ -5,3 +5,4 @@ pull取得远端数据库的数据
 # just add some text into issue2 feature
 现在又切换回 master 分支
 现在位于 experiment 分支
+我在master分支中，前面我在 experiment 分支中修改了 README 文档
